@@ -1,5 +1,11 @@
 # this project
 secret.md
+# image origins
+origin/
+tmp/
+
+# Figma souce copy
+*.fig
 
 # Logs
 logs

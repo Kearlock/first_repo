@@ -1,3 +1,5 @@
-# first_repo
-First try of Git
-Something
+# GoIT Homework
+
+First page - index.html
+
+try chatgpt results
