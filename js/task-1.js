@@ -18,3 +18,4 @@ const atTheOldToad = {
   },
 };
 console.log(atTheOldToad.getTotalPrice());
+console.log("======================================");
