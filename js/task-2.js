@@ -5,6 +5,6 @@ function add(a, ...args) {
   }
   console.log(args);
   console.log(a);
-  return sum;
+  return sum + a;
 }
 console.log(add(1, 2, 3, 4, 5, 6, 7, 8, 9));
